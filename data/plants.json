@@ -1,0 +1,436 @@
+{
+  "plants": [
+    {
+      "id": "7105db8a-f20a-44bc-a238-ec3184f88b47",
+      "plantName": "Cacto",
+      "plantSubtitle": "Cacto",
+      "plantType": "Cacto",
+      "price": "R$100,00",
+      "discountPercentage": "0%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Cacto",
+          "label": "indoor"
+        }
+      ],
+      "features": "Planta de ramos longos, suculentos",
+      "description": "Folhas fotossintéticas e os caules curtos",
+      "imgUrl": "../public/cacto.png"
+    },
+    {
+      "id": "e2bbf70f-a576-4892-82ec-ca67ec3fa824",
+      "plantName": "Costela de Adão",
+      "plantSubtitle": "Costela de Adão",
+      "plantType": "Verde",
+      "price": "R$150,00",
+      "discountPercentage": "10%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Verde",
+          "label": "indoor"
+        }
+      ],
+      "features": "Planta Costela de Adão",
+      "description": "Planta",
+      "imgUrl": "../public/costela.png"
+    },
+    {
+      "id": "942b5c1a-1234-5678-90ab-cdef12345678",
+      "plantName": "Cacto Bola",
+      "plantSubtitle": "Cacto Bola",
+      "plantType": "Cacto",
+      "price": "R$120,00",
+      "discountPercentage": "5%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Cacto",
+          "label": "indoor"
+        }
+      ],
+      "features": "Planta",
+      "description": "Planta",
+      "imgUrl": "../public/cacto_bola.png"
+    },
+    {
+      "id": "a123b456-7890-1234-5678-90abcdef1234",
+      "plantName": "Peperomia",
+      "plantSubtitle": "Peperomia",
+      "plantType": "Verde",
+      "price": "R$80,00",
+      "discountPercentage": "0%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Verde",
+          "label": "indoor"
+        }
+      ],
+      "features": "Planta",
+      "description": "Planta",
+      "imgUrl": "../src/assets/home/3this/peperomia.png"
+    },
+    {
+      "id": "feb1cb6e-1749-4e39-874c-03019de762be",
+      "plantName": "Flor de lotus",
+      "plantSubtitle": "Flor de lotus",
+      "plantType": "Flor de lotus",
+      "price": "R$700,00",
+      "discountPercentage": "0%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Flor de lotus",
+          "label": "indoor"
+        }
+      ],
+      "features": "Planta",
+      "description": "Planta",
+      "imgUrl": "../src/assets/home/3this/flor-lotus.jpg"
+    },
+    {
+      "id": "e2bbf70f-a576-4892-82ec-ca67ec3fa824",
+      "plantName": "Girassol",
+      "plantSubtitle": "Girassol",
+      "plantType": "Girassol",
+      "price": "R$700,00",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Girassol",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Planta",
+      "description": "Planta",
+      "imgUrl": "../src/assets/home/3this/girassol.jpg"
+    },
+    {
+      "id": "61bba97b-0fe4-443e-982a-8e23f016b419",
+      "plantName": "Dracenas",
+      "plantSubtitle": "Dracenas",
+      "plantType": "Dracenas",
+      "price": "R$100,00",
+      "discountPercentage": "0%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Dracenas",
+          "label": "indoor"
+        }
+      ],
+      "features": "Planta",
+      "description": "Planta",
+      "imgUrl": "../src/assets/home/3this/dracena.png"
+    },
+    {
+      "id": "942b4c1a-1234-5678-90ab-cdef12345678",
+      "plantName": "Rosa",
+      "plantSubtitle": "Rosa Vermelha",
+      "plantType": "Flor",
+      "price": "R$25,00",
+      "discountPercentage": "10%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Flor",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Perfume agradável",
+      "description": "A rosa vermelha é um símbolo de amor e paixão.",
+      "imgUrl": "../src/assets/home/3this/rosas.jpg"
+    },
+    {
+      "id": "a123b456-7890-1234-5678-90abcdef1234",
+      "plantName": "Orquídea",
+      "plantSubtitle": "Orquídea Branca",
+      "plantType": "Flor",
+      "price": "R$40,00",
+      "discountPercentage": "5%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Flor",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Flor delicada",
+      "description": "A orquídea branca é conhecida por sua beleza e elegância.",
+      "imgUrl": "../src/assets/home/3this/orquidea.jpg"
+    },
+    {
+      "id": "b234c567-8901-2345-6789-0abcdef12345",
+      "plantName": "Samambaia",
+      "plantSubtitle": "Samambaia Verde",
+      "plantType": "Verde",
+      "price": "R$30,00",
+      "discountPercentage": "0%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Verde",
+          "label": "indoor"
+        }
+      ],
+      "features": "Fácil cuidado",
+      "description": "A samambaia é uma planta popular para interiores.",
+      "imgUrl": "../src/assets/home/3this/samambaia.jpg"
+    },
+    {
+      "id": "c345d678-9012-3456-7890-abcdef123456",
+      "plantName": "Suculenta",
+      "plantSubtitle": "Suculenta Variada",
+      "plantType": "Suculenta",
+      "price": "R$15,00",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Suculenta",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Armazena água",
+      "description": "Suculentas são plantas resistentes que armazenam água.",
+      "imgUrl": "../src/assets/home/3this/suculenta.jpg"
+    },
+    {
+      "id": "d456e789-0123-4567-8901-abcdef1234567",
+      "plantName": "Lírio",
+      "plantSubtitle": "Lírio Branco",
+      "plantType": "Flor",
+      "price": "R$35,00",
+      "discountPercentage": "15%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Flor",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Flor perfumada",
+      "description": "O lírio branco simboliza pureza e elegância.",
+      "imgUrl": "../src/assets/home/3this/lirio.jpg"
+    },
+    {
+      "id": "e567f890-1234-5678-9012-abcdef12345678",
+      "plantName": "Tulipa",
+      "plantSubtitle": "Tulipa Colorida",
+      "plantType": "Flor",
+      "price": "R$20,00",
+      "discountPercentage": "0%",
+      "label": "indoor",
+      "labelArray": [
+        {
+          "plantType": "Flor",
+          "label": "indoor"
+        }
+      ],
+      "features": "Cores vibrantes",
+      "description": "Tulipas são flores populares na primavera.",
+      "imgUrl": "/images/tulipa.jpg"
+    },
+    {
+      "id": "f678a901-2345-6789-0123-abcdef12345679",
+      "plantName": "Bromélia",
+      "plantSubtitle": "Bromélia Imperial",
+      "plantType": "Bromélia",
+      "price": "R$50,00",
+      "discountPercentage": "10%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Bromélia",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Folhagem vibrante",
+      "description": "Bromélias são conhecidas por suas cores e formas exóticas.",
+      "imgUrl": "/images/bromelia.jpg"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "plantName": "Hortênsia",
+      "plantSubtitle": "Hortênsia Azul",
+      "plantType": "Flor",
+      "price": "R$38,00",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Flor",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Grandes flores",
+      "description": "Hortênsias são apreciadas por suas grandes flores em tons de azul, rosa e branco.",
+      "imgUrl": "/images/hortensia.jpg"
+    },
+    {
+      "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6e7f",
+      "plantName": "Manjericão",
+      "plantSubtitle": "Manjericão Verde",
+      "plantType": "Erva",
+      "price": "R$8,50",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Folhas perfumadas",
+      "description": "Manjericão é uma erva aromática popular usada na culinária.",
+      "imgUrl": "/images/manjericão.jpg"
+    },
+    {
+      "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6f8a9b",
+      "plantName": "Alecrim",
+      "plantSubtitle": "Alecrim Fresco",
+      "plantType": "Erva",
+      "price": "R$9,00",
+      "discountPercentage": "5%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Cheiro intenso",
+      "description": "Alecrim é uma erva com um aroma forte e utilizada em diversos pratos.",
+      "imgUrl": "/images/alecrim.jpg"
+    },
+    {
+      "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6fa9c8d7",
+      "plantName": "Lavanda",
+      "plantSubtitle": "Lavanda Roxa",
+      "plantType": "Erva",
+      "price": "R$12,00",
+      "discountPercentage": "10%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Fragrância calmante",
+      "description": "Lavanda é conhecida por sua fragrância relaxante e propriedades medicinais.",
+      "imgUrl": "/images/lavanda.jpg"
+    },
+    {
+      "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6f8b9a8c9d",
+      "plantName": "Hortelã",
+      "plantSubtitle": "Hortelã Fresca",
+      "plantType": "Erva",
+      "price": "R$7,00",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Sabor mentolado",
+      "description": "Hortelã é uma erva refrescante, ótima para chás e drinks.",
+      "imgUrl": "/images/hortela.jpg"
+    },
+    {
+      "id": "6f7a8b9c-0d1e-2f3a-4b5c-6f8b9a8c9e0a",
+      "plantName": "Coentro",
+      "plantSubtitle": "Coentro Orgânico",
+      "plantType": "Erva",
+      "price": "R$6,00",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Sabor cítrico",
+      "description": "Coentro é uma erva com um sabor cítrico, muito usado na culinária.",
+      "imgUrl": "/images/coentro.jpg"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3a4b-5c6f-8b9a8c9f0b1c",
+      "plantName": "Camomila",
+      "plantSubtitle": "Camomila Seca",
+      "plantType": "Erva",
+      "price": "R$10,00",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Propriedades relaxantes",
+      "description": "Camomila é conhecida por suas propriedades calmantes e é usada para fazer chá.",
+      "imgUrl": "/images/camomila.jpg"
+    },
+    {
+      "id": "8b9c0d1e-2f3a-4b5c-6f8b-9a8c9f0c2d3e",
+      "plantName": "Sálvia",
+      "plantSubtitle": "Sálvia Comum",
+      "plantType": "Erva",
+      "price": "R$8,00",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Sabor terroso",
+      "description": "Sálvia é uma erva aromática com um sabor terroso, usada em carnes e outros pratos.",
+      "imgUrl": "/images/salvia.jpg"
+    },
+    {
+      "id": "9c0d1e2f-3a4b-5c6f-8b9a-9c0f2d3e4f5a",
+      "plantName": "Tomilho",
+      "plantSubtitle": "Tomilho Fresco",
+      "plantType": "Erva",
+      "price": "R$9.50",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Sabor intenso",
+      "description": "Tomilho é uma erva com um sabor intenso, utilizada em sopas, carnes e legumes.",
+      "imgUrl": "/images/tomilho.jpg"
+    },
+    {
+      "id": "a0d1e2f3-a4b5-c6f8-b9a9-c0f2d3e4f5ab",
+      "plantName": "Orégano",
+      "plantSubtitle": "Orégano Seco",
+      "plantType": "Erva",
+      "price": "R$7.50",
+      "discountPercentage": "0%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Erva",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Sabor forte",
+      "description": "Orégano é uma erva com um sabor forte, essencial na culinária italiana.",
+      "imgUrl": "/images/oregano.jpg"
+    }
+  ]
+}
