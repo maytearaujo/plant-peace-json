@@ -16,7 +16,7 @@
       ],
       "features": "Planta de ramos longos, suculentos",
       "description": "Folhas fotossintéticas e os caules curtos",
-      "imgUrl": "../public/cacto.png"
+      "imgUrl": "/assets/img/cacto.png"
     },
     {
       "id": "e2bbf70f-a576-4892-82ec-ca67ec3fa824",
@@ -34,7 +34,7 @@
       ],
       "features": "Planta Costela de Adão",
       "description": "Planta",
-      "imgUrl": "../public/costela.png"
+      "imgUrl": "../src/assets/home/3this/costela.png"
     },
     {
       "id": "942b5c1a-1234-5678-90ab-cdef12345678",
@@ -52,7 +52,7 @@
       ],
       "features": "Planta",
       "description": "Planta",
-      "imgUrl": "../public/cacto_bola.png"
+      "imgUrl": "/cacto_bola.png"
     },
     {
       "id": "a123b456-7890-1234-5678-90abcdef1234",
@@ -232,7 +232,7 @@
       ],
       "features": "Cores vibrantes",
       "description": "Tulipas são flores populares na primavera.",
-      "imgUrl": "/images/tulipa.jpg"
+      "imgUrl": "../src/assets/home/3this/tulipa.jpg"
     },
     {
       "id": "f678a901-2345-6789-0123-abcdef12345679",
@@ -250,7 +250,7 @@
       ],
       "features": "Folhagem vibrante",
       "description": "Bromélias são conhecidas por suas cores e formas exóticas.",
-      "imgUrl": "/images/bromelia.jpg"
+      "imgUrl": "../src/assets/home/3this/bromelia.jpg"
     },
     {
       "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
@@ -268,7 +268,7 @@
       ],
       "features": "Grandes flores",
       "description": "Hortênsias são apreciadas por suas grandes flores em tons de azul, rosa e branco.",
-      "imgUrl": "/images/hortensia.jpg"
+      "imgUrl": "../src/assets/home/3this/hortensia.jpg"
     },
     {
       "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6e7f",
@@ -286,7 +286,7 @@
       ],
       "features": "Folhas perfumadas",
       "description": "Manjericão é uma erva aromática popular usada na culinária.",
-      "imgUrl": "/images/manjericão.jpg"
+      "imgUrl": "../src/assets/home/3this/manjericão.jpg"
     },
     {
       "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6f8a9b",
@@ -304,7 +304,7 @@
       ],
       "features": "Cheiro intenso",
       "description": "Alecrim é uma erva com um aroma forte e utilizada em diversos pratos.",
-      "imgUrl": "/images/alecrim.jpg"
+      "imgUrl": "../src/assets/home/3this/alecrim.jpg"
     },
     {
       "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6fa9c8d7",
@@ -322,7 +322,7 @@
       ],
       "features": "Fragrância calmante",
       "description": "Lavanda é conhecida por sua fragrância relaxante e propriedades medicinais.",
-      "imgUrl": "/images/lavanda.jpg"
+      "imgUrl": "../src/assets/home/3this/lavanda.jpg"
     },
     {
       "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6f8b9a8c9d",
@@ -340,7 +340,7 @@
       ],
       "features": "Sabor mentolado",
       "description": "Hortelã é uma erva refrescante, ótima para chás e drinks.",
-      "imgUrl": "/images/hortela.jpg"
+      "imgUrl": "../src/assets/home/3this/hortela.jpg"
     },
     {
       "id": "6f7a8b9c-0d1e-2f3a-4b5c-6f8b9a8c9e0a",
@@ -358,7 +358,7 @@
       ],
       "features": "Sabor cítrico",
       "description": "Coentro é uma erva com um sabor cítrico, muito usado na culinária.",
-      "imgUrl": "/images/coentro.jpg"
+      "imgUrl": "../src/assets/home/3this/coentro.jpg"
     },
     {
       "id": "7a8b9c0d-1e2f-3a4b-5c6f-8b9a8c9f0b1c",
@@ -376,7 +376,7 @@
       ],
       "features": "Propriedades relaxantes",
       "description": "Camomila é conhecida por suas propriedades calmantes e é usada para fazer chá.",
-      "imgUrl": "/images/camomila.jpg"
+      "imgUrl": "../src/assets/home/3this/camomila.jpg"
     },
     {
       "id": "8b9c0d1e-2f3a-4b5c-6f8b-9a8c9f0c2d3e",
@@ -394,7 +394,7 @@
       ],
       "features": "Sabor terroso",
       "description": "Sálvia é uma erva aromática com um sabor terroso, usada em carnes e outros pratos.",
-      "imgUrl": "/images/salvia.jpg"
+      "imgUrl": "../src/assets/home/3this/salvia.jpg"
     },
     {
       "id": "9c0d1e2f-3a4b-5c6f-8b9a-9c0f2d3e4f5a",
@@ -412,7 +412,7 @@
       ],
       "features": "Sabor intenso",
       "description": "Tomilho é uma erva com um sabor intenso, utilizada em sopas, carnes e legumes.",
-      "imgUrl": "/images/tomilho.jpg"
+      "imgUrl": "../src/assets/home/3this/tomilho.jpg"
     },
     {
       "id": "a0d1e2f3-a4b5-c6f8-b9a9-c0f2d3e4f5ab",
@@ -430,7 +430,7 @@
       ],
       "features": "Sabor forte",
       "description": "Orégano é uma erva com um sabor forte, essencial na culinária italiana.",
-      "imgUrl": "/images/oregano.jpg"
+      "imgUrl": "../src/assets/home/3this/oregano.jpg"
     }
   ]
 }
