@@ -52,7 +52,7 @@
       ],
       "features": "Planta",
       "description": "Planta",
-      "imgUrl": "/cacto_bola.png"
+      "imgUrl": "/img/cacto_bola.png"
     },
     {
       "id": "a123b456-7890-1234-5678-90abcdef1234",
@@ -70,7 +70,7 @@
       ],
       "features": "Planta",
       "description": "Planta",
-      "imgUrl": "/peperomia.png"
+      "imgUrl": "/img/peperomia.png"
     },
     {
       "id": "feb1cb6e-1749-4e39-874c-03019de762be",
@@ -88,7 +88,7 @@
       ],
       "features": "Planta",
       "description": "Planta",
-      "imgUrl": "../src/assets/home/3this/flor-lotus.jpg"
+      "imgUrl": "/img/flor-lotus.jpg"
     },
     {
       "id": "e2bbf70f-a576-4892-82ec-ca67ec3fa824",
@@ -106,7 +106,7 @@
       ],
       "features": "Planta",
       "description": "Planta",
-      "imgUrl": "../src/assets/home/3this/girassol.jpg"
+      "imgUrl": "/img/girassol.jpg"
     },
     {
       "id": "61bba97b-0fe4-443e-982a-8e23f016b419",
@@ -124,7 +124,7 @@
       ],
       "features": "Planta",
       "description": "Planta",
-      "imgUrl": "../src/assets/home/3this/dracena.png"
+      "imgUrl": "/img/dracena.png"
     },
     {
       "id": "942b4c1a-1234-5678-90ab-cdef12345678",
@@ -142,7 +142,7 @@
       ],
       "features": "Perfume agradável",
       "description": "A rosa vermelha é um símbolo de amor e paixão.",
-      "imgUrl": "../src/assets/home/3this/rosas.jpg"
+      "imgUrl": "/img/rosas.jpg"
     },
     {
       "id": "a123b456-7890-1234-5678-90abcdef1234",
@@ -160,7 +160,7 @@
       ],
       "features": "Flor delicada",
       "description": "A orquídea branca é conhecida por sua beleza e elegância.",
-      "imgUrl": "../src/assets/home/3this/orquidea.jpg"
+      "imgUrl": "/img/orquidea.jpg"
     },
     {
       "id": "b234c567-8901-2345-6789-0abcdef12345",
@@ -178,7 +178,7 @@
       ],
       "features": "Fácil cuidado",
       "description": "A samambaia é uma planta popular para interiores.",
-      "imgUrl": "../src/assets/home/3this/samambaia.jpg"
+      "imgUrl": "/img/samambaia.jpg"
     },
     {
       "id": "c345d678-9012-3456-7890-abcdef123456",
@@ -196,7 +196,7 @@
       ],
       "features": "Armazena água",
       "description": "Suculentas são plantas resistentes que armazenam água.",
-      "imgUrl": "../src/assets/home/3this/suculenta.jpg"
+      "imgUrl": "/img/suculenta.jpg"
     },
     {
       "id": "d456e789-0123-4567-8901-abcdef1234567",
@@ -214,7 +214,7 @@
       ],
       "features": "Flor perfumada",
       "description": "O lírio branco simboliza pureza e elegância.",
-      "imgUrl": "../src/assets/home/3this/lirio.jpg"
+      "imgUrl": "/img/lirio.jpg"
     },
     {
       "id": "e567f890-1234-5678-9012-abcdef12345678",
@@ -232,7 +232,7 @@
       ],
       "features": "Cores vibrantes",
       "description": "Tulipas são flores populares na primavera.",
-      "imgUrl": "../src/assets/home/3this/tulipa.jpg"
+      "imgUrl": "/img/tulipa.jpg"
     },
     {
       "id": "f678a901-2345-6789-0123-abcdef12345679",
@@ -250,7 +250,7 @@
       ],
       "features": "Folhagem vibrante",
       "description": "Bromélias são conhecidas por suas cores e formas exóticas.",
-      "imgUrl": "../src/assets/home/3this/bromelia.jpg"
+      "imgUrl": "/img/bromelia.jpg"
     },
     {
       "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
@@ -268,7 +268,7 @@
       ],
       "features": "Grandes flores",
       "description": "Hortênsias são apreciadas por suas grandes flores em tons de azul, rosa e branco.",
-      "imgUrl": "../src/assets/home/3this/hortensia.jpg"
+      "imgUrl": "/img/hortensia.jpg"
     },
     {
       "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6e7f",
@@ -286,7 +286,7 @@
       ],
       "features": "Folhas perfumadas",
       "description": "Manjericão é uma erva aromática popular usada na culinária.",
-      "imgUrl": "../src/assets/home/3this/manjericão.jpg"
+      "imgUrl": "/img/manjericão.jpg"
     },
     {
       "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6f8a9b",
@@ -304,7 +304,7 @@
       ],
       "features": "Cheiro intenso",
       "description": "Alecrim é uma erva com um aroma forte e utilizada em diversos pratos.",
-      "imgUrl": "../src/assets/home/3this/alecrim.jpg"
+      "imgUrl": "/img/alecrim.jpg"
     },
     {
       "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6fa9c8d7",
@@ -322,7 +322,7 @@
       ],
       "features": "Fragrância calmante",
       "description": "Lavanda é conhecida por sua fragrância relaxante e propriedades medicinais.",
-      "imgUrl": "../src/assets/home/3this/lavanda.jpg"
+      "imgUrl": "/img/lavanda.jpg"
     },
     {
       "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6f8b9a8c9d",
@@ -340,7 +340,7 @@
       ],
       "features": "Sabor mentolado",
       "description": "Hortelã é uma erva refrescante, ótima para chás e drinks.",
-      "imgUrl": "../src/assets/home/3this/hortela.jpg"
+      "imgUrl": "/img/hortela.jpg"
     },
     {
       "id": "6f7a8b9c-0d1e-2f3a-4b5c-6f8b9a8c9e0a",
@@ -358,7 +358,7 @@
       ],
       "features": "Sabor cítrico",
       "description": "Coentro é uma erva com um sabor cítrico, muito usado na culinária.",
-      "imgUrl": "../src/assets/home/3this/coentro.jpg"
+      "imgUrl": "/img/coentro.jpg"
     },
     {
       "id": "7a8b9c0d-1e2f-3a4b-5c6f-8b9a8c9f0b1c",
@@ -376,7 +376,7 @@
       ],
       "features": "Propriedades relaxantes",
       "description": "Camomila é conhecida por suas propriedades calmantes e é usada para fazer chá.",
-      "imgUrl": "../src/assets/home/3this/camomila.jpg"
+      "imgUrl": "/img/camomila.jpg"
     },
     {
       "id": "8b9c0d1e-2f3a-4b5c-6f8b-9a8c9f0c2d3e",
@@ -394,7 +394,7 @@
       ],
       "features": "Sabor terroso",
       "description": "Sálvia é uma erva aromática com um sabor terroso, usada em carnes e outros pratos.",
-      "imgUrl": "../src/assets/home/3this/salvia.jpg"
+      "imgUrl": "/img/salvia.jpg"
     },
     {
       "id": "9c0d1e2f-3a4b-5c6f-8b9a-9c0f2d3e4f5a",
@@ -412,7 +412,7 @@
       ],
       "features": "Sabor intenso",
       "description": "Tomilho é uma erva com um sabor intenso, utilizada em sopas, carnes e legumes.",
-      "imgUrl": "../src/assets/home/3this/tomilho.jpg"
+      "imgUrl": "/img/tomilho.jpg"
     },
     {
       "id": "a0d1e2f3-a4b5-c6f8-b9a9-c0f2d3e4f5ab",
@@ -430,7 +430,7 @@
       ],
       "features": "Sabor forte",
       "description": "Orégano é uma erva com um sabor forte, essencial na culinária italiana.",
-      "imgUrl": "../src/assets/home/3this/oregano.jpg"
+      "imgUrl": "/img/oregano.jpg"
     }
   ]
 }
