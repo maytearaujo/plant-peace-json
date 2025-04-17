@@ -34,7 +34,7 @@
       ],
       "features": "Planta Costela de Adão",
       "description": "Planta",
-      "imgUrl": "../src/assets/home/3this/costela.png"
+      "imgUrl": "/assets/img/costela.png"
     },
     {
       "id": "942b5c1a-1234-5678-90ab-cdef12345678",
@@ -70,7 +70,7 @@
       ],
       "features": "Planta",
       "description": "Planta",
-      "imgUrl": "../src/assets/home/3this/peperomia.png"
+      "imgUrl": "/assets/img/peperomia.png"
     },
     {
       "id": "feb1cb6e-1749-4e39-874c-03019de762be",
