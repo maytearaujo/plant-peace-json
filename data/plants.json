@@ -1,7 +1,7 @@
 {
   "plants": [
     {
-      "id": "7105db8a-f20a-44bc-a238-ec3184f88b47",
+      "id": "1",
       "plantName": "Cacto",
       "plantSubtitle": "Cacto",
       "plantType": "Cacto",
@@ -19,7 +19,7 @@
       "imgUrl": "/img/cacto.png"
     },
     {
-      "id": "e2bbf70f-a576-4892-82ec-ca67ec3fa824",
+      "id": "2",
       "plantName": "Costela de Adão",
       "plantSubtitle": "Costela de Adão",
       "plantType": "Verde",
@@ -55,7 +55,7 @@
       "imgUrl": "/img/cacto_bola.png"
     },
     {
-      "id": "a123b456-7890-1234-5678-90abcdef1234",
+      "id": "3",
       "plantName": "Peperomia",
       "plantSubtitle": "Peperomia",
       "plantType": "Verde",
