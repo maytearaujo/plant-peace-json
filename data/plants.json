@@ -197,6 +197,24 @@
       "features": "Armazena água",
       "description": "Suculentas são plantas resistentes que armazenam água.",
       "imgUrl": "/img/suculenta.jpg"
+    },
+    {
+      "id": "d456e789-0123-4567-8901-abcdef1234567",
+      "plantName": "Lírio",
+      "plantSubtitle": "Lírio Branco",
+      "plantType": "Flor",
+      "price": "R$35,00",
+      "discountPercentage": "15%",
+      "label": "outdoor",
+      "labelArray": [
+        {
+          "plantType": "Flor",
+          "label": "outdoor"
+        }
+      ],
+      "features": "Flor perfumada",
+      "description": "O lírio branco simboliza pureza e elegância.",
+      "imgUrl": "/img/lirio.jpg"
     }
   ]
 }
